@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("分支添加");
         System.out.println("主干在第13行添加");
         System.out.println("分支在第13行添加");
+        System.out.println("在线更新");
     }
 }
